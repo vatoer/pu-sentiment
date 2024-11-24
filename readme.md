@@ -14,9 +14,12 @@ scrapper untuk tugas pu
 
 ## command 
 
+`python3` atau `py` sesuaikan dengan python cli yang terinstall
+
 ```sh
-scrapper.py
+python3 scrapper.py
 ```
+
 
 menggunakan scrapper dari <https://github.com/helmisatria/tweet-harvest>
 
